@@ -1,0 +1,6 @@
+VSWIZARD 7.0
+Wizard=VsWizard.VsWizardEngine.14.0
+
+Param="WIZARD_NAME = CalanderWithLogin"
+Param="ABSOLUTE_PATH = c:\users\warpe\onedrive\documents\visual studio 2015\Projects\CalanderWithLogin\CalanderWithLogin"
+Param="FALLBACK_LCID = 1033"
